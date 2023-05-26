@@ -17,7 +17,7 @@ Le projet est développé en Python 3.10 avec la librairie [Pyxel](https://githu
 
 ## Tester le simulateur
 
-Il est possible de tester le simulateur compilé en HTML avec Pyxel en cliquant [ici]() ou en ouvrant le lien disponible dans la partie *About* de cette page.
+Il est possible de tester le simulateur compilé en HTML avec Pyxel en cliquant [ici](https://johanldx.github.io/NetworkSimulator/) ou en ouvrant le lien disponible dans la partie *About* de cette page.
 
 ## Capture d'écran
 
