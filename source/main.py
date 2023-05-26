@@ -9,8 +9,6 @@
 import pyxel
 import random
 import heapq
-import math
-import time
 
 class Server:
     COLOR_GREEN = 0
